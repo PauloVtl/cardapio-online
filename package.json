@@ -1,0 +1,23 @@
+{
+  "name": "cardapio-online",
+  "version": "1.0.0",
+  "description": "Cardápio para lanchonetes/restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css/ -o ./styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloVtl/cardapio-online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloVtl/cardapio-online/issues"
+  },
+  "homepage": "https://github.com/PauloVtl/cardapio-online#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
